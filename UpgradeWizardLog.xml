@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\GATEWAY\source\repos\university\university\university.csproj" />
+  <event action="Analyze" type="Success" name="AddNewRoom.resx" path="C:\Users\GATEWAY\source\repos\university\university\AddNewRoom.resx" />
+  <event action="Analyze" type="Success" name="AllEmployeeWorking.resx" path="C:\Users\GATEWAY\source\repos\university\university\AllEmployeeWorking.resx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\GATEWAY\source\repos\university\university\App.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\GATEWAY\source\repos\university\university\App.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\GATEWAY\source\repos\university\university\App.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\GATEWAY\source\repos\university\university\App.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\GATEWAY\source\repos\university\university\App.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\GATEWAY\source\repos\university\university\App.config" />
+  <event action="Analyze" type="Success" name="App.config" path="C:\Users\GATEWAY\source\repos\university\university\App.config" />
+  <event action="Analyze" type="Success" name="deshboard.resx" path="C:\Users\GATEWAY\source\repos\university\university\deshboard.resx" />
+  <event action="Analyze" type="Success" name="EmplyeePayment.resx" path="C:\Users\GATEWAY\source\repos\university\university\EmplyeePayment.resx" />
+  <event action="Analyze" type="Success" name="Form1.resx" path="C:\Users\GATEWAY\source\repos\university\university\Form1.resx" />
+  <event action="Analyze" type="Success" name="LeavedEmployee.resx" path="C:\Users\GATEWAY\source\repos\university\university\LeavedEmployee.resx" />
+  <event action="Analyze" type="Success" name="LeavedStudent.resx" path="C:\Users\GATEWAY\source\repos\university\university\LeavedStudent.resx" />
+  <event action="Analyze" type="Success" name="NewEmployee.resx" path="C:\Users\GATEWAY\source\repos\university\university\NewEmployee.resx" />
+  <event action="Analyze" type="Success" name="NewStudent.resx" path="C:\Users\GATEWAY\source\repos\university\university\NewStudent.resx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\GATEWAY\source\repos\university\university\packages.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\GATEWAY\source\repos\university\university\packages.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\GATEWAY\source\repos\university\university\packages.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\GATEWAY\source\repos\university\university\packages.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\GATEWAY\source\repos\university\university\packages.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\GATEWAY\source\repos\university\university\packages.config" />
+  <event action="Analyze" type="Success" name="packages.config" path="C:\Users\GATEWAY\source\repos\university\university\packages.config" />
+  <event action="Analyze" type="Success" name="Resources.resx" path="C:\Users\GATEWAY\source\repos\university\university\Properties\Resources.resx" />
+  <event action="Analyze" type="Success" name="StudentFees.resx" path="C:\Users\GATEWAY\source\repos\university\university\StudentFees.resx" />
+  <event action="Analyze" type="Success" name="StudentLiving.resx" path="C:\Users\GATEWAY\source\repos\university\university\StudentLiving.resx" />
+  <event action="Analyze" type="Success" name="UpdateDeleteEmplyee.resx" path="C:\Users\GATEWAY\source\repos\university\university\UpdateDeleteEmplyee.resx" />
+  <event action="Analyze" type="Success" name="UpdateDeletStudent.resx" path="C:\Users\GATEWAY\source\repos\university\university\UpdateDeletStudent.resx" />
+  <event action="Analyze" type="Success" name="university" path="C:\Users\GATEWAY\source\repos\university\university\university.csproj" />
+  <event action="Analyze" type="Success" name="university" path="C:\Users\GATEWAY\source\repos\university\university.sln" />
+</log>
